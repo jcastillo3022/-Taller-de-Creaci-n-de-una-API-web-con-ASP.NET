@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TKWcZ6kbV/HYbz0dxsPq+Bwy9icefHeWMBge2VtH02bzWEIciTEEMB4zJ3xfzjjUHg7G8l+xrNA+rAte23Bwng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rende\\Documents\\ContozoPizza\\ContozoPizza.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rende\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\rende\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rende\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\rende\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\rende\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\rende\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
